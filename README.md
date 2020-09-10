@@ -4,6 +4,9 @@ This repository comprises of analyis of WISDM Smartphone and Smartwatch Activity
 [https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+]
 
 
+Raw groundwork: 
+https://www.notion.so/Induction-Task-08555f52af714b498710516d3c301069
+
 ## 1. Notebook1: dataset_creation.ipynb
 Comrises of dataset processing and csv creation using the raw text files in the dataset. The processed files are available on this drive link: https://drive.google.com/drive/folders/1w4mI0lL4-l_-Io5QUcRBBwTavSoX1Wzi?usp=sharing
 
